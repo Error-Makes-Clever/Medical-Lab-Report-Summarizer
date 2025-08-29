@@ -27,6 +27,7 @@ The app extracts relevant pages from uploaded reports, analyzes them using **Goo
 ---
 
 ## 🚀 Features
+
 - 📂 Upload **PDF lab reports**  
 - 🤖 Get **AI-powered summaries** for different health categories  
 - 📊 Summaries include **reference ranges, values, and interpretations**  
