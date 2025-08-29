@@ -58,7 +58,6 @@ lab-report-summarizer/
 │   └── index.html          # Frontend UI (Bootstrap + JS)
 │── requirements.txt        # Python dependencies
 │── .env                    # API keys setup
-
 ````
 
 ---
