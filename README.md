@@ -1,5 +1,9 @@
 # 🩺 Medical Lab Report Summarizer
 
+<p align="center">
+  <img src="assets/Front_Page.png" alt="Medical Lab Report Summarizer UI" width="600"/>
+</p>
+
 A Flask-based web app that uploads lab test PDFs and generates AI-powered medical summaries (Diabetes, Hypertension, Dyslipidemia, Liver, Kidney, Thyroid, Anemia, Obesity, Nutrition). Supports PDF download of comprehensive summaries.
 
 ---
